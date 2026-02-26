@@ -6,6 +6,8 @@ A simple patcher of **HTTP Debugger** to bypass payment thingy
 
 Below are screenshots from IDA Pro illustrating the offset targeting and byte synchronization during the analysis phase:
 
+to bypass annoying licence thingy just simply modify these 3 instructions from JGE to JMP + editing return value to 9999 . 
+
 ### Hex View & Offset Synchronization
 ![IDA Pro Analysis 1](https://raw.githubusercontent.com/galviy/http-debugger-patcher/main/pic2.png)
 
