@@ -1,4 +1,4 @@
-# HTTP Debugger CTF Patcher
+# HTTP Debugger Patcher
 
 A simple patcher of **HTTP Debugger** to bypass payment thingy
 
